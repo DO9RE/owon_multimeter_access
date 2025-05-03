@@ -14,7 +14,7 @@ The script offers the following functionality when started with `./start.sh`:
 2. **Select a device (Press 'S')**:
    - Press the `S` key to select a multimeter via its Bluetooth LE address.
    - The Bluetooth environment is scanned for 10 seconds. Turn your device into Bluetooth mode and select your multimeter from the menu using the corresponding number.
-   - The selected address is directly written into the script (self-modifying code).
+   - The selected address and device type are directly written into the script (self-modifying code).
 
 3. **Exit the script (Press 'Q')**:
    - Press the `Q` key to exit the script.
